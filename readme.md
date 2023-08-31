@@ -17,8 +17,8 @@ The Guitar Hero App is a virtual guitar simulator that allows you to experience 
 
 #### Usange
 
-- ``Compile it using  `make` command ``
-- ``Run the program with `./GuitarHero` in command ``
+- Compile it using  `make` command 
+- Run the program with `./GuitarHero` in command
 
 ###### Todo
 - Add Visualize of each keypressed
